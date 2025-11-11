@@ -19,7 +19,7 @@ public class Main {
                 case 2 -> Ejercicio2();
                 case 3 -> Ejercicio3();
                 case 4 -> Ejercicio4();
-                case 5 -> Ejercicio3();
+                case 5 -> Ejercicio1();
 
                 default -> System.out.println("Opción no válida. Introduce un número del 1 al 5.");
             }
