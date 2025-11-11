@@ -1,0 +1,60 @@
+# Practica 4 - Investigación sobre trabajo colaborativo
+
+Esta práctica se realizará por parejas, pero ambos alumnos deberán de entregar el PDF en aules. Se va a trabajar la colaboración en proyectos mediante GitHub.
+
+Nombre Alumno1:  Hilario
+Nombre Alumno2:  Hilario
+URL del repositorio: https://github.com/H1l000/laboratorioColaborar
+
+El alumno 1 deberá rellenar los apartados que aparece A1, y el alumnos 2 en A2.  
+Las imágenes y este mismo archiuvo con su versión PDF deberán estar en GitHub.
+
+1. A1: Cread un repositorio "laboratorioColaborar" en GitHub (Ponedlo público).
+
+![](1.png)
+
+2. A2: Investigad sobre como utilizar GIT desde IntelliJ para explicarlo a A1.
+
+<p>Para subir un proyecto a Git desde IntelliJ IDEA, hay que abrirlo y activar el control de versiones desde VCS → Enable Version Control Integration, eligiendo Git. Luego hay que hacer el primer commit, seleccionando los archivos, escribiendo un mensaje y guardando los cambios. Después, se crea un repositorio en GitHub y se copia su URL. En IntelliJ, hay que ir a Git → Manage Remotes, agregar el nombre origin y pegar la dirección del repositorio. Por último, se sube todo con Git → Push, comprobando que la rama sea la correcta. Con eso, el proyecto queda conectado a GitHub y listo para seguir actualizándose.<p>
+
+3. A1: Subid una práctica de "Programación" desde IntelliJ
+
+![](2.png)
+
+![](3.png)
+
+4. Crear la rama A1 desde master y crear la rama A2 desde master.
+
+![](4.png)
+
+5. En A1, modificar código, hacer commit y push.
+
+![](5.png)
+
+6. En A2, modificar la misma parte de forma distinta, commit y push.
+
+![](6.png)
+
+7. Fusionar A2 en A1, resolver conflictos, commit y push.
+
+![](7.png)
+
+![](9.png)
+
+![](10.png)
+
+8. A1:Investigad sobre la herramienta "CodeWithMe".  
+
+CodeWithMe es una herramienta de JetBrains implementada en junio de 2020 que permite a varios desarrolladores colaborar en tiempo real dentro del mismo proyecto de código, directamente desde el IDE (IntelliJ). Con ella, se comparte la sesión para que otros vean y editen el código simultáneamente. Contiene audio y chat integrados.
+
+
+9. A2: Investigad sobre la herramienta "GitHubCopilot".
+
+GitHub Copilot es una herramienta de inteligencia artificial desarrollada por GitHub y OpenAI que funciona como un asistente de programación integrado en editores de código, como Visual Studio Code. Su función principal es ayudar a los desarrolladores sugiriendo automáticamente líneas completas o fragmentos de código mientras escriben, basándose en el contexto del proyecto y en millones de ejemplos de código público. Esto permite acelerar el proceso de programación, reducir errores y ofrecer soluciones o alternativas al instante. GitHub Copilot fue lanzado oficialmente en julio de 2022 y ha cambiado la forma en que se escribe código al combinar IA avanzada con el conocimiento de la comunidad global de desarrolladores.
+
+Vídeos de ayuda:  
+Subir proyecto desde GIT: https://www.youtube.com/watch?v=6WtA2dUDvPY  
+Clonar repositorio: https://www.youtube.com/watch?v=rcQBgm5vid0
+Colaborar con GIT: https://www.youtube.com/watch?v=ibmQkhAzk5I  
+
+
